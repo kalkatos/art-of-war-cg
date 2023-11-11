@@ -1,0 +1,15 @@
+[submodule "NewDuelGame/Assets/Game/Scripts/Network"]
+	path = NewDuelGame/Assets/Game/Scripts/Network
+	url = https://github.com/kalkatos/network.git
+[submodule "NewDuelGame/Assets/Game/Scripts/Scriptable"]
+	path = NewDuelGame/Assets/Game/Scripts/Scriptable
+	url = https://github.com/kalkatos/scriptable.git
+[submodule "NewDuelGame/Assets/Game/Scripts/UnityGame"]
+	path = NewDuelGame/Assets/Game/Scripts/UnityGame
+	url = https://github.com/kalkatos/unitygame.git
+[submodule "NewDuelGame/Assets/Game/Scripts/Analytics"]
+	path = NewDuelGame/Assets/Game/Scripts/Analytics
+	url = https://github.com/kalkatos/analytics.git
+[submodule "NewDuelGame/Assets/Game/Scripts/CSharpGame"]
+	path = NewDuelGame/Assets/Game/Scripts/CSharpGame
+	url = https://github.com/kalkatos/csharpgame.git
